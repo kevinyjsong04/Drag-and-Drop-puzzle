@@ -7,3 +7,5 @@ Good luck and have fun!
 
 
 Shoutout to ImKennyYip for creating the original version of this game. I'm using this to get experience developing webapps with Javascript, HTML, and CSS.
+
+You can play here at https://kevinyjsong04.github.io/Drag-and-Drop-puzzle/
